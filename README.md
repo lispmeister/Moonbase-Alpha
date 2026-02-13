@@ -1,4 +1,4 @@
-# Moon Base Alpha
+# Moonbase Alpha
 
 The prime directive has changed and we are going to develop the lunar base
 first. We will need atmospheric control systems that can manage large scale
